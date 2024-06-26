@@ -58,7 +58,7 @@
     display: block;
 }
 
-.navbar .dropdown {
+.navbar__profile .dropdown {
     transition: all 800ms ease;
     position: absolute;
     top: 100%;
