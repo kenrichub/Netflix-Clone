@@ -40,3 +40,15 @@
     width: 20px;
     cursor: pointer;
 }
+
+.navbar__right .profile {
+    border-radius: 4px;
+    width: 36px;
+}
+
+.navbar__profile {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    cursor: pointer;
+}
