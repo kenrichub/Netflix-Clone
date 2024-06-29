@@ -66,3 +66,6 @@
 .hero__btns .btn.dark__btn:hover {
     background: #6d6d6e66;
 }
+.more__cards{
+   padding-left: 6%; 
+}
